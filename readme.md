@@ -1,7 +1,7 @@
 
 # Photos Album
 
-This is a project uses Laravel 6.5 and Angular 8.0 to create a photos album. It's possible to add, read and delete pictures of the album. You just need to send the picture to application and they will save the path on the database with another information.
+This project uses Laravel 6.5 and Angular 8.0 to create a photos album. It's possible to add, read and delete pictures of the album. You just need to send the picture to application and they will save the path on the database with another information of the post.
 
 ### Next steps
  This project allow us to create and apply many things and concepts. Then, I will implement new functionalities:
